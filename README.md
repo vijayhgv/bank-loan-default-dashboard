@@ -43,6 +43,14 @@ education level and credit scores.
 2. Download this repo
 3. Open `Bank_Loan_Default_Dashboard_Vijayhgv.pbix`
 
+## 🔧 KNIME Workflow
+Automated ETL pipeline built using **KNIME Analytics Platform 5**
+- ✅ 255,347 rows processed end-to-end
+- ✅ Missing value imputation using Column Mean
+- ✅ 128,653 defaulted loans isolated (50.4% default rate)
+- ✅ KPIs summarized by Education level
+- ✅ Clean output exported as CSV
+
 ## 👨‍💻 About Me
 **Vijayhgv** — Aspiring Data Analyst from Anantapur, Andhra Pradesh
 🔗 [Portfolio](https://vijayhgv.github.io) | [GitHub](https://github.com/vijayhgv)
